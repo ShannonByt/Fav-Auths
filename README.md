@@ -1,5 +1,5 @@
 # Fav-Auths
-###List of my favourite authours
+# Ordered List
 *Margret Atwood*
 *Tara Westover*
 *Taylor Jenkins Reid"
