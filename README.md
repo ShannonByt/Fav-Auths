@@ -2,4 +2,4 @@
 # Ordered List
 *Margret Atwood*
 *Tara Westover*
-*Taylor Jenkins Reid"
+*Taylor Jenkins Reid*
